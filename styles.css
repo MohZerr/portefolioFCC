@@ -79,6 +79,8 @@ a {
     font: normal normal normal 50px/1 FontAwesome;
     font-size: 50px;
     text-rendering: auto;
+    transition-duration: 500ms;
+    color: white;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
