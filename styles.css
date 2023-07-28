@@ -76,7 +76,7 @@ a {
 }
 .fa{
   transition-duration: 500ms;
-  font: normal normal normal 50px/1 FontAwesome
+  font-size: 50px;
   color: white;
 }
 .fa-github{
@@ -85,7 +85,7 @@ a {
   top:60px;
 }
 .fa-linkedin{
-    position: absolute;
+  position: absolute;
   right: -55px;
   top:120px;
 }
