@@ -77,7 +77,7 @@ a {
  .fa {
     display: inline-block;
     font: normal normal normal 50px/1 FontAwesome;
-    font-size: herit;
+    font-size: 50px;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
