@@ -76,22 +76,21 @@ a {
 }
 .fa {
     display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
+    font: normal normal normal 50px/1 FontAwesome;
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.fa-github {
+.fa-github{
   position: absolute;
-  right: 10px; /* ou toute autre valeur qui convient à votre mise en page */
-  top: 60px;
+  right: -55px;
+  top:60px;
 }
-
-.fa-linkedin {
-  position: absolute;
-  right: 10px; /* ou toute autre valeur qui convient à votre mise en page */
-  top: 120px;
+.fa-linkedin{
+    position: absolute;
+  right: -55px;
+  top:120px;
 }
 
 .container h1 {
