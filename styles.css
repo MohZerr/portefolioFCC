@@ -74,10 +74,13 @@ a {
 .fa:hover{
   opacity:0.8
 }
-.fa{
-  transition-duration: 500ms;
-  font-size: 50px;
-  color: white;
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 .fa-github {
   position: absolute;
