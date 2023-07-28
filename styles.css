@@ -74,10 +74,10 @@ a {
 .fa:hover{
   opacity:0.8
 }
-.container .fa {
+ .fa {
     display: inline-block;
     font: normal normal normal 50px/1 FontAwesome;
-    font-size: inherit;
+    font-size: herit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
