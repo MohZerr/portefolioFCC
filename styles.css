@@ -74,7 +74,7 @@ a {
 .fa:hover{
   opacity:0.8
 }
-.fa {
+.container .fa {
     display: inline-block;
     font: normal normal normal 50px/1 FontAwesome;
     font-size: inherit;
